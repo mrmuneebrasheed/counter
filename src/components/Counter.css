@@ -1,0 +1,12 @@
+.counter {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 90%;
+  margin: 5em auto;
+  height: 20rem;
+  box-shadow: 0 20px 50px 10px black;
+  max-width: 40rem;
+  background-color: rgb(255, 255, 255);
+}
